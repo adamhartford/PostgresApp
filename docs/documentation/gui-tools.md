@@ -50,11 +50,11 @@ Some of them are quite powerful; some are still a bit rough.
 Here's a list of all the Mac Apps I found (in alphabetic order):
 
 - [Datagrip](https://www.jetbrains.com/datagrip/)
-- [Datazenit](https://datazenit.com/) (web based, requires registration)
+- [Datazenit](https://datazenit.com/)
 - [DBeaver](http://dbeaver.jkiss.org/)
 - [DbVisualizer](https://www.dbvis.com/)
 - [Navicat for PostgreSQL](http://www.navicat.com/products/navicat-for-postgresql)
-- [pgAdmin III](http://pgadmin.org/)
+- [pgAdmin](http://pgadmin.org/)
 - [PG Commander](https://eggerapps.at/pgcommander/)
 - [PostgreSQL Manager](https://itunes.apple.com/at/app/postgresql-manager/id875191518?mt=12)
 - [Postico](https://eggerapps.at/postico/)
@@ -63,6 +63,7 @@ Here's a list of all the Mac Apps I found (in alphabetic order):
 - [SQLPro for PostgreSQL](http://www.hankinsoft.com/SQLProPostgres/)
 - [Valentina Studio](http://www.valentina-db.com/en/valentina-studio-overview)
 - [Woolly](http://woollyapp.com)
+- [DBGlass](http://dbglass.web-pal.com)
 
 
 Most GUI applications will expect you to provide the following connection parameters to connect to Postgres.app:
